@@ -4,4 +4,4 @@
 
 ## Keywords: Log Aesthetic Curves; Log Aesthetic Surface; LoC; GPU; CUDA;
 
-You may download all mathematica code of this paper by saving the file: Loc-LA-Surface.nb
+You may download all mathematica code of this paper by saving the file: **Loc-LA-Surface.nb**
