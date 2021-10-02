@@ -1,2 +1,6 @@
 # LoC-LASurfaces
 Investigating the Characteristics of Lines of Curvature for Log Aesthetic Surfaces
+Abstract: Lines of curvatures (LoCs) are curves on a surface that are derived from the first and second fundamental forms, which have been used for shaping various types of surfaces. In this paper, we investigate the LoCs of two types of log aesthetic (LA) surfaces; i.e. LA surface of revolution and LA swept surfaces. These surfaces are generated with log aesthetic curves (LAC) which comprise of various family of curves governed by α. Since it is impossible to derive the LoCs analytically, we have implemented the LoC computation numerically on the Central Processing Unit (CPU) and General Processing Unit (GPU) which showed significant speed up with the latter. Next, we investigated the curvature distributions of the derived LoCs using a Logarithmic Curvature Graph (LCG). In conclusion, the LoCs of LA surface of revolutions are indeed the duplicates of its original profile curves. Meanwhile, the LoCs of LA swept surface are LACs of different shapes. The exception to this is when this type of surface possesses LoCs in the form of circle involutes. 
+
+Keywords: Log Aesthetic Curves; Log Aesthetic Surface; LoC; GPU; CUDA;
+![image](https://user-images.githubusercontent.com/5084325/135708739-45e039db-023c-4220-9831-ef8f3e4b03b5.png)
