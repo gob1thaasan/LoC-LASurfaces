@@ -6,4 +6,4 @@
 
 You may download all mathematica code of this paper by saving the file: **Loc-LA-Surface.nb**
 
-# full citation: [Gobithaasan, R.U.; Teh, Y.M.; Miura, K.T.; Ong, W.E. Lines of Curvature for Log Aesthetic Surfaces Characteristics Investigation. Mathematics 2021, 9, 2699.] (https://doi.org/10.3390/ math9212699)
+## full citation: [Gobithaasan, R.U.; Teh, Y.M.; Miura, K.T.; Ong, W.E. Lines of Curvature for Log Aesthetic Surfaces Characteristics Investigation. Mathematics 2021, 9, 2699.] (https://doi.org/10.3390/math9212699)
